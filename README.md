@@ -4,7 +4,7 @@
     
 **Deep Learning Tutorial for Beginners 은 Deep Learning 을 공부하기 전에 필수(?)적으로 숙지 하여야 할 기본적인 것들을 설명합니다.** 
     
-* 이 노트북은 Data ScienceTutorial for Beginners(https://github.com/wowhb/Data-Science-Tutorial-for-Beginners) 를 이어서 작성하는 것으로 Deep Learning Tutorial 이라고 생각하시면 됩니다. kaggle 의 DATAI팀의 작업물은 번역 및 보완 한 노트북입니다.
+* 이 노트북은 Data ScienceTutorial for Beginners(https://github.com/wowhb/Data-Science-Tutorial-for-Beginners) 를 이어서 작성하는 것으로 Deep Learning Tutorial 이라고 생각하시면 됩니다. kaggle 의 DATAI팀의 작업물을 번역 및 설명을 추가하여 쉽게 풀어쓴 노트북입니다.
     
 * 이번 노트북에서 기본적인 모든 것을 하나하나 설명하려고 합니다.     
 * 키워드를 중심으로 정의합니다.
